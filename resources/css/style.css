@@ -1,3 +1,10 @@
+body {
+
+background-color: Black;
+text-align: center;
+
+}
+
 h1  {
 
     font-family: Verdana;
@@ -5,5 +12,42 @@ h1  {
     font-size: 50px;
     color: white;
     text-align: Centered;
-    
+
+}
+
+. cta {
+
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+video {
+    object-fit: contain;
+}
+
+h3, h2 {
+
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+
+}
+
+h5 {
+
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+
+}
+
+p {
+    color: grey;
+    font-size: 21px;
+}
+
+.footer {
+  text-align: Right;
+  color: Gray;
 }
